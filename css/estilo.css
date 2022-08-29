@@ -54,6 +54,15 @@ main{
 	display: table-cell;
 	padding: 10px;
 }
+.animaciones {
+	text-decoration: none;
+	color: black;
+	transition: 0.3s;
+}
+.animaciones:hover{
+	color: red;
+	padding-left: 10px;
+}
 
 
 
